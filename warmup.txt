@@ -1,0 +1,7 @@
+What is the difference between for and forEach() loops? Describe to your partner a specific case in which you would use one over the other.
+forEach is for an array only. for can be for strings and so forth.
+How does a for loop know when to stop looping?
+When the conditions are met in the parameter.
+What else can we do with the first parameter in a for loop?
+You can initialize a variable at the start of a loop
+for (initialization; condition; final expression)
